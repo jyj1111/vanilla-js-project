@@ -1,0 +1,31 @@
+#clock,#todolist li span{
+    color:white;
+}
+#weather,#city,#temperature{
+    margin: 20px 20px 20px 20px;
+    font-size: large;
+    font-weight: bold;
+    color:lawngreen;
+}
+div{
+    text-align: center;
+    margin-top:60px;
+    margin-bottom:60px;
+}
+#d4{
+    text-align: left;
+}
+.hidden{
+    display:none;
+}
+#name,#do{
+    height:40px;
+    width: 200px;
+}
+#welcome{
+    color:lightcoral;
+}
+button{
+    margin-left:20px;
+}
+
